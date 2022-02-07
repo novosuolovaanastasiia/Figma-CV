@@ -1,0 +1,242 @@
+body {
+  margin: 0px;
+  font-family: 'Karma', serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul>li {
+  list-style: none;
+  font-size: 18px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 200px;
+}
+
+li a {
+  text-decoration: none;
+  color: rgb(160, 160, 160);
+  text-shadow: rgb(206, 205, 205) 0px 5px 6px;
+}
+
+li a:hover{
+  color: black;
+}
+
+.hr-line {
+  width: 846px;
+  box-shadow: rgb(206, 205, 205) 0px 4px 10px 0px;
+  color: rgb(160, 160, 160);
+}
+
+h1 {
+  font-family: 'Karma', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 47px;
+}
+
+header {
+  margin: 0px 250px;
+}
+
+header img {
+  width: 846px;
+  height: 346px;
+  padding-bottom: 100px;
+}
+
+.about-me {
+  background-color: rgb(241, 240, 240);
+  height: 510px;
+  margin: 0px;
+  width: 100%;
+}
+
+.about-me h2 {
+  margin: 0px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 28px;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.tell-about-me p {
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+}
+
+.tell-about-me {
+  padding: 0px 400px 100px 400px;
+}
+
+.skills h2 {
+  margin: 0px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 40px;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.skills p {
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 80px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 200px 100px 200px;
+}
+
+.photoshop .ps {
+  padding-left: 19px;
+  padding-bottom: 20px;
+}
+
+.photoshop p {
+  padding-bottom: 58px;
+}
+
+.illustrator .ai {
+  padding-left: 19px;
+  padding-bottom: 20px;
+}
+
+.illustrator p {
+  padding-bottom: 58px;
+}
+
+.effects .ae {
+  padding-left: 19px;
+  padding-bottom: 20px;
+}
+
+.effects p {
+  padding-bottom: 58px;
+}
+
+.figma .fgm {
+  padding-left: 19px;
+  padding-bottom: 20px;
+  margin: 0px;
+}
+
+.figma p {
+  padding-bottom: 58px;
+}
+
+.portfolio {
+  background-color: rgb(241, 240, 240);
+}
+
+.portfolio h2 {
+  margin: 0px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 60px;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.portfolio img {
+  padding: 0px 250px;
+  width: 846px;
+
+}
+
+.portfolio a {
+  text-align: center;
+  font-size: 18px;
+  color: black;
+}
+
+.portfolio p {
+  margin: 0px;
+  padding-bottom: 128px;
+}
+
+.reebok {
+  background-color: rgb(241, 240, 240);
+}
+
+.reebok p {
+  margin: 0px;
+  padding-bottom: 128px;
+}
+
+.reebok img, .braun img {
+  padding: 0px 250px;
+  width: 846px;
+}
+
+.reebok a, .braun a {
+  text-align: center;
+  font-size: 18px;
+  color: black;
+}
+
+.braun {
+  background-color: rgb(241, 240, 240);
+}
+
+.braun p {
+  margin: 0px;
+  padding-bottom: 128px;
+}
+
+.contacts h2 {
+  margin: 0px;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  font-size: 34px;
+  font-weight: bold;
+}
+
+.contacts p {
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  padding-bottom: 78px;
+}
+
+.contacts button {
+  background-color: black;
+  border-radius: 25px;
+  height: 42px;
+  font-size: 18px;
+  color: white;
+  padding: 3px 15px;
+  margin-left: 598px;
+  margin-bottom: 37px;
+  box-shadow: rgb(206, 206, 206) 0px 8px 10px;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 500px 44px 500px;
+}
+
+.like p {
+  text-align: center;
+  margin: 0px;
+  color: gray;
+  font-size: 14px;
+  padding-bottom: 150px;
+}
+
+.like a {
+  text-decoration: none;
+  color: gray;
+}
+.like a:hover{
+  color: black;
+}
